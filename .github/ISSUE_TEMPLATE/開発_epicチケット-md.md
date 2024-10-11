@@ -12,6 +12,7 @@ assignees: ''
 - 「Assignees」に担当者を割り振ること
 - 「label」は最低1つ設定すること
 - 「tech-flow」プロジェクトに紐づけること
+- 「Status」には「backlog」を指定すること
 - 「TicketType」には「Epic」を指定すること
 - 「Iteration」には「iteration」を指定すること
 
