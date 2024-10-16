@@ -32,3 +32,4 @@ xx月副担当発表の準備が完了していること
 
 # リンク
 - [副担当発表ドライブ](https://drive.google.com/drive/u/1/folders/1j0fOPRd8N8ul6WV35-79fqzVQ-hraCuw)
+- [メール文面sample](https://docs.google.com/document/d/1hrDBQmWgyakkKpS67j5lMaPvQMVAaS7iorQR3gpFCFA/edit?tab=t.0)
